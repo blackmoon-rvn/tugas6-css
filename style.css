@@ -1,0 +1,23 @@
+.satu {
+   width: 400px;
+   height: auto;
+   overflow: scroll;
+   background-color: gainsboro;
+   border: 10px dotted red;
+}
+
+.dua {
+   width: 400px;
+   height: auto;
+   overflow: scroll;
+   background-color: gainsboro;
+   border: 5px solid red;
+}
+
+.tiga {
+   width: 400px;
+   height: auto;
+   overflow: scroll;
+   background-color: gainsboro;
+   border: 10px dashed blue;
+}
